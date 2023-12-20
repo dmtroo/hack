@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.0">
-    <script>
+    <h1>
         <?php phpinfo(); ?>
-    </script>
+    </h1>
 </svg>
